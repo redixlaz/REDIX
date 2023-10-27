@@ -194,9 +194,9 @@ http://streaming.netdirekt.com.tr/35757/msyapi/chunks.m3u8
 #EXTINF:-1 group-title="ULUSAL",SUPER TURK  2  HD
 http://169.53.242.72/SUPERTURK_2CH_HD/index.m3u8
 #EXTINF:-1 group-title="ULUSAL",SUPER TURK FİLM TV
-http://169.53.242.72/SUPERTURK_FILMTV/index.m3u8
+http://169.53.242.72:3466/stream/play.m3u8
 #EXTINF:-1 group-title="ULUSAL",SUPER TURK FILM 2 TV
-http://169.53.242.72/SUPERTURK_FILM2TV_HD/index.m3u8
+http://bozztv.com/ssh101/ssh101/superturk1hd/chunks.m3u8
 #EXTINF:-1 group-title="ULUSAL",SUPERTURK.TV VIZYON
 http://169.53.242.72/SUPERTURKTV_vizyonHD/index.m3u8
 #EXTINF:-1 group-title="ULUSAL",SUPER TURK GOLD HD
